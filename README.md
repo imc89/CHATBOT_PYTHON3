@@ -10,7 +10,7 @@ Python3 Chatbot
 ## General info
 This project is a chatbot  built in Python using the libraries:
 [Python Libraries]
-*   [nltk] -> NLTK (Natural Language Toolkit) is a leading platform for building Python programs to work with human language data.
+*   [nltk] -> NLTK is a leading platform for building Python programs to work with human language data.
 *   [numpy] -> Fundamental package for scientific computing with Python.
 *   [tflearn] ->  Deep learning library built on top of Tensorflow.
 *   [tensorflow] -> Open source platform for machine learning.

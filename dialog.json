@@ -1,0 +1,72 @@
+{"dialog": [
+    {"tag": "saludos",
+     "patterns": [
+             "Hola!",
+             "Cómo estás?",
+             "Hay alguien ahí?",
+             "Buenas",
+             "Buenos días",
+             "Qué tal?",
+             "Cómo va?"
+            ],
+     "responses": [
+             "Hola!",
+             "Que alegría volver a verte!",
+             "Hola, puedo ayudarte en algo?",
+             "Hola,qué tal?",
+             "Saludos"
+            ]
+    },
+    {"tag": "despedidas",
+     "patterns": [
+             "Adios",
+             "Nos vemos luego",
+             "Hasta luego",
+             "Me tengo que marchar,adios",
+             "Me desconecto por hoy"
+            ],
+     "responses": [
+             "Adios!",
+             "Es una pena que te vayas tan pronto :(",
+             "Me ha encantado hablar contigo",
+             "Hablamos más tarde",
+             "Ha sido un placer hablarte de nuevo",
+             "Ok, hablamos en otro momento"
+            ]
+    },
+    {"tag": "edad",
+     "patterns": [
+         "Cuántos años tienes?", 
+         "Qué edad tienes?", 
+         "Cuál es tu edad", 
+         "edad?", 
+         "años?"
+        ],
+     "responses": [
+         "Tengo 27 años!", 
+         "Yo tengo 27"
+        ]
+    },
+    {"tag": "nombre",
+     "patterns": [
+         "Cómo te llamas?", 
+         "Cómo puedo llamarte?", 
+         "nombre"
+        ],
+     "responses": [
+         "Me llamo Miguel", 
+         "Yo soy Miguel!", 
+         "Me puedes llamar Miguel"
+        ]
+    },
+    {"tag": "ser",
+        "patterns": [
+            "Quién eres?", 
+            "Qué eres?"
+           ],
+        "responses": [
+            "Soy Miguel y quizá podamos ser buenos amigos"
+           ]
+    }
+]
+}
